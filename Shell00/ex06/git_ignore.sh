@@ -1,0 +1,3 @@
+cd ..
+ cat .gitignore
+
